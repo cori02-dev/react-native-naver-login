@@ -44,7 +44,3 @@ local.properties
 buck-out/
 \.buckd/
 *.keystore
-
-index.d.ts
-index.js
-index.js.flow
